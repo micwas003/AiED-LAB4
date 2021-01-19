@@ -1,1 +1,1 @@
-# AiED-LAB4
+# Algorytmy i Eksploracja Danych - Laboratorium 4
