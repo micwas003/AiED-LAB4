@@ -1,0 +1,2 @@
+Train time (before reduction),Test time (before reduction,Score (before reduction),Train time (after PCA reduction),Test time (after PCA reduction),Score (after PCA reduction)
+49.84,45.91,0.91,2.89,2.82,0.83
